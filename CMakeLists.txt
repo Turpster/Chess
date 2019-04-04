@@ -1,1 +1,5 @@
+cmake_minimum_required(VERSION 3.13)
 project(knight)
+include_directories(include/)
+link_libraries(glfw GLEW GL)
+add_executable(knight src/window.cpp)
