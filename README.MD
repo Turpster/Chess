@@ -1,5 +1,6 @@
-# Chess Engine
-Why not
+# Knight
+Chess Engine
+> Why not
 ## Dependencies
 ```
 - GLFW
