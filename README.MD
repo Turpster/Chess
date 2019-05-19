@@ -1,5 +1,5 @@
 # Knight
-Chess Engine
+Chess Game
 > Why not
 ## Dependencies
 ```
